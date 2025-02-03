@@ -30,7 +30,7 @@ Probeer wat je hebt geleerd toe te passen in de leertaken in Sprint 5 en 6, met 
 
 ## Semester 2
 
-Volg in het tweede semester _dagelijks_ een les van [LearnJaSascript.online](https://learnjavascript.online/). De eerste 77 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
+Volg in het tweede semester _dagelijks_ een les van [LearnJavaScript.online](https://learnjavascript.online/). De eerste 77 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
 
 Je kan op verschillende niveaus oefeningen doen, net als bij de vorige cursus. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is.
 
