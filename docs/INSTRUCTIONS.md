@@ -36,7 +36,7 @@ Je kan op verschillende niveaus oefeningen doen, net als bij de vorige cursus. J
 
 Hou in je I Love Web Learning Journal _dagelijks_ zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript werkt.
 
-Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoorbeeld in client-side interacties en Progressive Enhancement of server-side Node, Express en EJS code. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
+Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoorbeeld in client-side interacties en Progressive Enhancement of server-side Node, Express en Liquid code. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
 
 
 ## Semester 3
