@@ -5,9 +5,9 @@ Leer zelfstanding de basis van programmeren met JavaScript, om te gebruiken in d
 
 ## Context
 
-Deze deeltaak hoort bij Semester 1, 2 en 3, zodra we in het programma meer met client-side JavaScript gaan werken. Je bent de opleiding begonnen met HTML en CSS, twee _declaratieve_ programmeertalen. JavaScript is een _imperatieve_ programmeertaal, wat voor veel frontenders een grote stap is. Door deze deeltaak zelfstandig stap voor stap uit te voeren, krijg je de basisvaardigheden van programmeren en JavaScript sneller onder de knie.
+Deze deeltaak hoort bij Semester 1, 2 en 3. Je bent de opleiding begonnen met HTML en CSS, twee _declaratieve_ programmeertalen. JavaScript is een _imperatieve_ programmeertaal, wat voor veel frontenders een grote stap is. Door deze deeltaak zelfstandig stap voor stap uit te voeren, krijg je de basisvaardigheden van programmeren en JavaScript sneller onder de knie.
 
-Dit is een deeltaak die je individueel uitvoert.
+Dit is een deeltaak die je individueel uitvoert. Op donderdagen kun je deze deeltaak doen onder begeleiding van Jad Joubran, de maker van de online cursussen die we hieronder linken.
 
 
 ## Doel van deze opdracht
@@ -19,7 +19,7 @@ In het derde semester ga je zelfstandig aan de slag met TypeScript, om je klaar 
 
 ## Semester 1
 
-Volg in Sprint 5 en 6 _dagelijks_ een lesje van [LearnProgramming.online](https://learnprogramming.online/). De eerste 55 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
+Volg in het eerste semester lessen van [LearnProgramming.online](https://learnprogramming.online/). De eerste 55 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
 
 Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. De cursus gebruikt JavaScript om programmeer concepten uit te leggen, wat goed aansluit bij onze opleiding en je alvast voorbereidt op Semester 2.
 
