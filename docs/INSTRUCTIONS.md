@@ -41,9 +41,9 @@ Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoor
 
 ## Semester 3
 
-Volg in het derde semester dagelijks verschillende lessen van [ReactTutorial.app](https://react-tutorial.app/), en verdiep je nog meer in hoe JavaScript werkt, door meer theorie te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
+Volg in het derde semester dagelijks verschillende lessen van [LearnJavaScript.online](https://learnjavascript.online/), als je dat nog niet hebt gedaan. Verdiep je nog meer in hoe JavaScript werkt, door meer theorie te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed, en in de [HvA Bibliotheek](https://www.hva.nl/bibliotheek) zijn ook veel goede boeken te vinden.
 
-Ga ook zelfstandig aan de slag met [LearnTypeScript.online](https://learntypescript.online/). De eerste 49 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van TypeScript erg handig is, dus je bereidt jezelf hiermee voor op het werkveld.
+Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van React en TypeScript erg handig is, ook al zijn dit geen standaarden, waar we tot nu toe bij de opleiding veel aandacht aan hebben besteed. Het kan dus verstandig zijn om ook zelfstandig aan de slag te gaan met [ReactTutorial.app](https://react-tutorial.app/) en [LearnTypeScript.online](https://learntypescript.online/). Hiermee begrijp je ook meer van hoe frameworks zoals SvelteKit werken. Je bereidt jezelf hiermee dus voor op het werkveld.
 
 Hou in je I Love Web Learning Journal zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript en TypeScript werken. Dit kun je ook gebruiken in het mentorprogramma.
 
